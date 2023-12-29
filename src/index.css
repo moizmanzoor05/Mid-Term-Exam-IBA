@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&family=Poppins&family=Raleway&family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&family=Poppins&family=Raleway&family=Space+Mono&family=Work+Sans&display=swap');
+
+body{
+    @apply p-0 m-0 box-border overflow-x-hidden
+}
